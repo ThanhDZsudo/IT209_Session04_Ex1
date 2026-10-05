@@ -2,7 +2,7 @@
 
 - **Khóa học:** IT209 - DevOps
 - **Họ và tên:** Nguyễn Tiến Thành
-- **Mã số sinh viên (MSSV):** D24DTCN283
+- **Mã số sinh viên (MSSV):** B24DTCN283
 - **Email:** thenngk6@gmail.com
 - **GitHub Username:** ThanhDZsudo
 - **Đường dẫn nộp bài dự kiến:** `homework/session_04/ex1/`
